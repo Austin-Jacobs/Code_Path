@@ -1,4 +1,4 @@
-# codePathweek78
+# Code Path Week 7 & 8
 
  WordPress vs. Kali
  
@@ -61,7 +61,7 @@ All exploits were tested and implemented within a WPDistillery 4.2 environment.
 * Steps to Recreate: 
   * Navigate to ```192.168.33.10/wp-admin/cs``` or ```192.168.33.10/wp-admin/js```
   * Observe the files available to through the page
-  # codePathweek9
+  # Code Path Week 9
 
  Pentesting Live Targets
  
