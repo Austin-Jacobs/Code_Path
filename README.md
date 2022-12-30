@@ -135,7 +135,7 @@ All exploits were tested and implemented within either the https://35.184.88.145
   * Navigate to RED site
   * Login with valid username: pperson and associated password
   * Navigate to the salespeople list on the RED site
-  * Open the CSRF html form: [Form](https://github.com/Austin-Jacobs/codePathweek9/blob/main/CSRF.html)
+  * Open the CSRF html form: [Form](https://github.com/Austin-Jacobs/Code_Path/blob/e0c92491c35c24a46704c918bbbbf77b051085bc/CSRF.html)
   * Refresh the salespeople page
   * Observe that there is now a salesperson H4NK H4CK3R
 
